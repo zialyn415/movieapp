@@ -1,0 +1,6 @@
+select, input {
+	padding: 15px;
+}
+#rating-list > div {
+	border: 3px solid white;
+}
